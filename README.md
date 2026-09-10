@@ -47,7 +47,8 @@ const aleem = {
     database: [
         "Supabase",
         "PostgreSQL",
-        "Firebase"
+        "Firebase",
+        "MongoDB"
     ],
 
     tools: [
