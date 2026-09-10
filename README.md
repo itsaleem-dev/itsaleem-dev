@@ -114,7 +114,7 @@ Working with:
 ### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase,mongodb" />
 </p>
 
 ### Development Tools
