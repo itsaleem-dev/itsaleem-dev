@@ -114,13 +114,13 @@ Working with:
 ### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,nodejs,express,,mongodb" />
 </p>
 
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,claude,chatgpt,gemini" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
 ---
