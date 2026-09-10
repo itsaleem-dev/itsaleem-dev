@@ -1,299 +1,223 @@
-<div align="center">
-
 # Abdul Aleem Khatri
 
-### Software Engineer · Frontend Developer · Builder
+### Software Engineer · Frontend Developer · Founder & CEO @ Nexovia Skills Academy
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software.;Building+modern+web+experiences.;Learning%2C+building%2C+shipping.;Founder+%26+CEO+%40+Nexovia+Skills+Academy." alt="Typing animation" />
-
-<br/>
-
-<a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-
-</div>
+> I build modern, responsive and user-focused web applications —  
+> while continuously growing toward full-stack JavaScript engineering.
 
 ---
 
-## `$ whoami`
+## `> whoami`
 
-I'm a Software Engineer focused on building **clean, responsive and practical web applications**.
+I'm a Software Engineer focused on building practical web experiences with clean UI, structured code and real-world functionality.
 
-My foundation is in frontend engineering, while I'm actively expanding into backend development and full-stack JavaScript.
+My development journey started with frontend engineering and has expanded into databases, backend technologies and full-stack JavaScript development.
 
-I care about more than making something "work" — I focus on **how it works, how it feels, and how it can be improved.**
+Currently, I'm focused on strengthening my engineering fundamentals, building real-world projects, and turning ideas into scalable digital products.
 
-```javascript
-const aleem = {
-    role: "Software Engineer",
-    focus: "Web Application Development",
+---
 
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Bootstrap"
-    ],
+## `> engineering.focus`
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
+| Area | Focus |
+|---|---|
+| Frontend Engineering | Responsive & interactive web applications |
+| JavaScript | ES6+, DOM, APIs & application logic |
+| Backend | Node.js & Express.js |
+| Databases | MongoDB, PostgreSQL & Supabase |
+| Authentication | Firebase & Supabase |
+| Version Control | Git & GitHub |
+| Deployment | Netlify |
+| Development | Project-based & practical learning |
 
-    database: [
-        "Supabase",
-        "PostgreSQL",
-        "Firebase"
-    ],
+---
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Netlify"
-    ],
+## `> tech.stack`
 
-    currentlyBuilding: "Nexovia Skills Academy",
-    currentlyLearning: "Full-Stack JavaScript"
-};
+### Frontend
+
+`HTML5` · `CSS3` · `JavaScript ES6+` · `Bootstrap 5`
+
+### Backend & Databases
+
+`Node.js` · `Express.js` · `MongoDB` · `PostgreSQL` · `Supabase`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `Firebase` · `Netlify` · `Postman`
+
+---
+
+## `> currently_learning`
+
+```text
+Full-Stack JavaScript
+       │
+       ├── Node.js
+       ├── Express.js
+       ├── MongoDB
+       ├── REST APIs
+       ├── PostgreSQL
+       └── Scalable Application Architecture
 ```
 
----
-
-## `> Engineering Focus`
-
-<table>
-<tr>
-<td width="50%">
-
-### Frontend Engineering
-
-Building responsive interfaces with attention to:
-
-* Semantic HTML
-* Modern CSS
-* JavaScript
-* DOM manipulation
-* Responsive design
-* User experience
-
-</td>
-
-<td width="50%">
-
-### Application Development
-
-Working with:
-
-* APIs & data
-* Authentication
-* Databases
-* CRUD applications
-* Deployment
-* Version control
-
-</td>
-</tr>
-</table>
+I'm continuously expanding from frontend development toward complete full-stack application development.
 
 ---
 
-## `⚙ Tech Stack`
+## `> what_i_build`
 
-### Languages & Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>
+- Responsive websites and web applications
+- JavaScript-based interactive applications
+- Dashboard and productivity tools
+- Database-powered applications
+- Authentication-based systems
+- REST API integrations
+- Educational platforms
+- Practical projects for real-world use cases
 
 ---
 
-## `⌘ What I'm Building`
-
-### Nexovia Skills Academy
-
-**Founder & CEO**
-
-A practical learning platform focused on helping aspiring developers move from **learning concepts → building projects → developing career-ready skills.**
-
-**Focus**
-
-`Web Development` · `Practical Learning` · `Projects` · `Career Development` · `Internships`
-
-**Website:**
-https://nexovia-skills-academy.netlify.app
-
----
-
-## `◉ Selected Work`
+## `> selected.projects`
 
 ### Smart Money Dashboard
 
-A browser-based personal finance application for managing income and expenses.
+A browser-based personal finance dashboard for managing income and expenses.
 
 **Stack:** `HTML` `CSS` `JavaScript` `LocalStorage`
+
+**Focus:** UI design · DOM manipulation · data handling · client-side storage
 
 ---
 
 ### Traffic Signal Checker
 
-A lightweight JavaScript application demonstrating conditional logic and dynamic interaction.
+A JavaScript-based application that determines traffic signal actions based on user input.
 
 **Stack:** `HTML` `CSS` `JavaScript`
+
+**Focus:** conditional logic · DOM manipulation · user interaction
 
 ---
 
 ### Nexovia Skills Academy
 
-A production-deployed academy platform with course information, applications and database integration.
+A web platform created for online web development training, course information and student applications.
 
 **Stack:** `HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Netlify`
 
+**Focus:** frontend development · database integration · applications · deployment
+
 ---
 
-## `~/current-state`
+## `> nexovia.skills.academy`
+
+### Founder & CEO — Nexovia Skills Academy
+
+I founded Nexovia Skills Academy with a simple vision:
+
+> **Learn. Build. Grow.**
+
+The academy focuses on practical web development training, project-based learning and helping beginners build real development skills.
+
+**Current focus:**
+
+- Web Development
+- Practical project-based training
+- Career development
+- Student portfolio building
+- Technical mentorship
+
+🌐 **Website:** https://nexovia-skills-academy.netlify.app
+
+---
+
+## `> engineering.mindset`
 
 ```text
-Frontend Engineering       ████████████████████░  Building
-JavaScript                 ████████████████████░  Building
-Supabase / PostgreSQL      ██████████████████░░░  Working
-Git / GitHub                ████████████████████░  Daily
-Node.js / Express.js       ███████████████░░░░░░  Learning
-Full-Stack JavaScript      ████████████░░░░░░░░░  Next
+Learn
+  ↓
+Understand
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Ship
+```
+
+I believe software engineering is not just about writing code.
+
+It's about understanding problems, designing solutions, debugging efficiently, learning continuously and building things that are actually useful.
+
+---
+
+## `> development.principles`
+
+```text
+01  Write clean and understandable code
+02  Build before overthinking
+03  Learn through real projects
+04  Debug instead of giving up
+05  Keep improving existing solutions
+06  Understand fundamentals before frameworks
+07  Build for real users, not just tutorials
 ```
 
 ---
 
-## `→ Engineering Path`
+## `> current.goals`
+
+- [x] Build real-world frontend projects
+- [x] Work with modern databases
+- [x] Deploy production-ready websites
+- [x] Teach web development
+- [x] Build and manage Nexovia Skills Academy
+- [ ] Deepen Node.js & Express.js
+- [ ] Build more REST APIs
+- [ ] Strengthen MongoDB
+- [ ] Build complete full-stack applications
+- [ ] Grow into a strong Full-Stack JavaScript Engineer
+
+---
+
+## `> professional.profile`
 
 ```text
-HTML / CSS
-     │
-     ▼
-Responsive Web Development
-     │
-     ▼
-JavaScript & DOM
-     │
-     ▼
-Firebase / Supabase
-     │
-     ▼
-PostgreSQL
-     │
-     ▼
-Node.js + Express.js
-     │
-     ▼
-Full-Stack JavaScript
-     │
-     ▼
-Real-World Products
+Role        : Software Engineer / Frontend Developer
+Specialty   : Web Application Development
+Founder     : Nexovia Skills Academy
+Education   : BBA · Modern Web Application Development
+Location    : Karachi, Pakistan
+Direction   : Full-Stack JavaScript Engineering
 ```
 
 ---
 
-## `⌁ How I Work`
+## `> let's.connect`
 
-```text
-Understand the problem
-        ↓
-Plan the solution
-        ↓
-Build the first version
-        ↓
-Test & debug
-        ↓
-Improve the experience
-        ↓
-Ship it
+**GitHub**  
+Building, experimenting and sharing projects.
+
+**Nexovia Skills Academy**  
+https://nexovia-skills-academy.netlify.app
+
+**LinkedIn**  
+Add your personal LinkedIn profile here.
+
+---
+
+## `> final.command`
+
+```bash
+$ build --learn
+$ build --solve
+$ build --ship
+$ build --improve
 ```
 
-> **Good software isn't only about writing code.
-> It's about solving the right problem well.**
+### Learn. Build. Grow.
 
----
-
-## `◈ GitHub Activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=itsaleem-dev&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## `+` Beyond Code
-
-Alongside development, I work on **teaching, mentoring and building Nexovia Skills Academy**.
-
-I enjoy breaking complicated technical concepts into simple, practical steps — especially for developers who are just starting their journey.
-
-**Build it. Understand it. Teach it. Improve it.**
-
----
-
-## `// 2026`
-
-```text
-[✓] Build real-world web applications
-[✓] Launch Nexovia Skills Academy
-[✓] Teach practical web development
-[✓] Work with Supabase & PostgreSQL
-
-[→] Deepen backend development
-[→] Build full-stack JavaScript applications
-[→] Contribute to open-source projects
-[→] Build and ship more products
-```
-
----
-
-## `connect()`
-
-<div align="center">
-
-<a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/Website-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/nexovia_.official/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=Profile%20Views&color=58A6FF&style=flat-square"/>
-
-<br/><br/>
-
-### `Learn → Build → Ship → Repeat.`
-
-</div>
+*Always learning. Always building.*
