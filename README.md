@@ -219,26 +219,6 @@ More real-world projects are being built, tested and shipped.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&theme=transparent&hide_border=true&title_color=A8D500&text_color=FFFFFF&bg_color=00000000&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=itsaleem-dev&theme=dark&hide_border=true&ring=A8D500&fire=A855F7&currStreakLabel=A8D500" width="70%"/>
-
-</div>
-
----
-
-## 🐍 `CONTRIBUTIONS // MOVING`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/itsaleem-dev/itsaleem-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## 🎯 `2026 // MISSION`
 
 ```text
