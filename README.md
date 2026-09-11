@@ -59,7 +59,7 @@ const aleem = {
     ],
 
     currentlyBuilding: "Nexovia Skills Academy",
-    currentlyLearning: "Full-Stack JavaScript"
+    currentlyLearning: "MERN-Stack Developer"
 };
 ```
 
