@@ -63,7 +63,7 @@ PRIMARY
 Frontend Engineering
 
 CURRENT
-Full-Stack JavaScript
+Full-Stack Developer
 
 BUILDING
 Nexovia Skills Academy
@@ -93,6 +93,8 @@ MongoDB
 Git / GitHub
 Postman
 Netlify
+VS Code
+Vercel
 ```
 
 </td>
