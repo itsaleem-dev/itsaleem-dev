@@ -219,12 +219,6 @@ More real-world projects are being built, tested and shipped.
 
 ---
 
-## 📈 `GITHUB // LIVE`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&theme=transparent&hide_border=true&title_color=A8D500&icon_color=A855F7&text_color=FFFFFF&bg_color=00000000&include_all_commits=true&count_private=true" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&theme=transparent&hide_border=true&title_color=A8D500&text_color=FFFFFF&bg_color=00000000&langs_count=8" height="180"/>
 
 <br/><br/>
