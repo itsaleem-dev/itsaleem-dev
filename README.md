@@ -35,7 +35,7 @@
 │                                                      │
 │   Software Engineer                                  │
 │   Frontend Developer                                 │
-│   Web Development Instructor                          │
+│    Web Development Instructor                          │
 │   Founder & CEO @ Nexovia Skills Academy             │
 │                                                      │
 │   I build. I learn. I teach. I ship.                │
