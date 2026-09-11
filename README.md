@@ -105,20 +105,33 @@ Vercel
 
 ## ⚡ `STACK.EXE`
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🟢 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-<br/><br/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,mongodb,nodejs,express" />
+<td width="33%" valign="top">
 
-<br/><br/>
+### 🟣 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase" />
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔵 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
 
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🧠 `WHAT DRIVES ME`
