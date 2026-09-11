@@ -1,34 +1,51 @@
 <div align="center">
 
-# Abdul Aleem Khatri
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Abdul+Aleem+Khatri;Software+Engineer;Frontend+Developer;Web+Development+Instructor;Founder+%26+CEO+%40+Nexovia+Skills+Academy" alt="Typing SVG" />
 
-### Software Engineer · Frontend Developer · Builder
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software.;Building+modern+web+experiences.;Learning%2C+building%2C+shipping.;Founder+%26+CEO+%40+Nexovia+Skills+Academy." alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=header&text=BUILD.%20SHIP.%20GROW.&fontSize=32&fontColor=58A6FF&animation=twinkling&fontAlignY=55" width="100%"/>
 
 <br/>
 
 <a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Nexovia%20Skills%20Academy-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<a href="https://github.com/itsaleem-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-I'm a Software Engineer focused on building **clean, responsive and practical web applications**.
+### `> whoami`
 
-My foundation is in frontend engineering, while I'm actively expanding into backend development and full-stack JavaScript.
+**Software Engineer · Frontend Developer · Instructor · Builder**
 
-I care about more than making something "work" — I focus on **how it works, how it feels, and how it can be improved.**
+I build modern, responsive and practical web applications —
+while continuously expanding toward **full-stack JavaScript engineering**.
+
+`Code` · `Build` · `Learn` · `Teach` · `Ship`
+
+</div>
+
+---
+
+## `01 // About Me`
 
 ```javascript
 const aleem = {
+    name: "Abdul Aleem Khatri",
     role: "Software Engineer",
     focus: "Web Application Development",
 
@@ -54,48 +71,74 @@ const aleem = {
     tools: [
         "Git",
         "GitHub",
+        "Postman",
         "VS Code",
-        "Netlify"
+        "Netlify",
+        "Vercel"
     ],
 
-    currentlyBuilding: "Nexovia Skills Academy",
-    currentlyLearning: "MERN-Stack Developer"
+    building: "Nexovia Skills Academy",
+    learning: "Full-Stack JavaScript",
+    mindset: "Build. Learn. Improve. Repeat."
 };
 ```
 
 ---
 
-## `> Engineering Focus`
+## `02 // Tech Stack`
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase" />
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+
+</div>
+
+---
+
+## `03 // What I Do`
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### Frontend Engineering
+### ⚡ Build
 
-Building responsive interfaces with attention to:
-
-* Semantic HTML
-* Modern CSS
-* JavaScript
-* DOM manipulation
-* Responsive design
-* User experience
+Responsive interfaces
+Web applications
+Interactive experiences
+Real-world projects
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### Application Development
+### 🧠 Learn
 
-Working with:
+JavaScript
+Backend development
+Databases
+Full-stack architecture
 
-* APIs & data
-* Authentication
-* Databases
-* CRUD applications
-* Deployment
-* Version control
+</td>
+
+<td width="33%" align="center">
+
+### 🎓 Teach
+
+Web development
+Practical projects
+Beginner-friendly concepts
+Career-focused learning
 
 </td>
 </tr>
@@ -103,94 +146,70 @@ Working with:
 
 ---
 
-## `⚙ Tech Stack`
+## `04 // Currently Building`
 
-### Languages & Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=NEXOVIA%20SKILLS%20ACADEMY&fontSize=25&fontColor=58A6FF&animation=fadeIn&desc=Learn%20%E2%86%92%20Build%20%E2%86%92%20Grow&descSize=16&descAlignY=75"/>
 
-### Backend & Data
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,nodejs,express,mongodb" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman,vercel" />
-</p>
-
----
-
-## `⌘ What I'm Building`
-
-### Nexovia Skills Academy
-
-**Founder & CEO**
-
-A practical learning platform focused on helping aspiring developers move from **learning concepts → building projects → developing career-ready skills.**
-
-**Focus**
-
-`Web Development` · `Practical Learning` · `Projects` · `Career Development` · `Internships`
-
-**Website:**
-https://nexovia-skills-academy.netlify.app
-
----
-
-## `◉ Selected Work`
-
-### Smart Money Dashboard
-
-A browser-based personal finance application for managing income and expenses.
-
-**Stack:** `HTML` `CSS` `JavaScript` `LocalStorage`
-
----
-
-### Traffic Signal Checker
-
-A lightweight JavaScript application demonstrating conditional logic and dynamic interaction.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### Nexovia Skills Academy
-
-A production-deployed academy platform with course information, applications and database integration.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Netlify`
-
----
-
-## `~/current-state`
+Nexovia Skills Academy is a practical learning platform focused on helping aspiring developers move from:
 
 ```text
-Frontend Engineering       ████████████████████░  Building
-JavaScript                 ████████████████████░  Building
-Supabase / PostgreSQL      ██████████████████░░░  Working
-Git / GitHub                ████████████████████░  Daily
-Node.js / Express.js       ███████████████░░░░░░  Learning
-Full-Stack JavaScript      ████████████░░░░░░░░░  Next
+Learning Concepts
+       ↓
+Building Projects
+       ↓
+Developing Skills
+       ↓
+Creating Portfolios
+       ↓
+Growing Careers
 ```
 
+**Focus:** `Web Development` · `Projects` · `Career Development` · `Internships`
+
+🌐 **Website:** https://nexovia-skills-academy.netlify.app
+
 ---
 
-## `→ Engineering Path`
+## `05 // Featured Projects`
+
+### 💰 Smart Money Dashboard
+
+A browser-based finance dashboard for managing income and expenses.
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+---
+
+### 🚦 Traffic Signal Checker
+
+A lightweight JavaScript project demonstrating conditional logic and dynamic interaction.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🎓 Nexovia Skills Academy
+
+A production-deployed academy platform with courses, applications and database integration.
+
+`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Netlify`
+
+---
+
+## `06 // Engineering Journey`
 
 ```text
-HTML / CSS
+HTML + CSS
      │
      ▼
-Responsive Web Development
+Responsive Interfaces
      │
      ▼
-JavaScript & DOM
+JavaScript + DOM
      │
      ▼
 Firebase / Supabase
@@ -199,7 +218,7 @@ Firebase / Supabase
 PostgreSQL
      │
      ▼
-Node.js + Express.js
+Node.js + Express
      │
      ▼
 Full-Stack JavaScript
@@ -210,66 +229,104 @@ Real-World Products
 
 ---
 
-## `⌁ How I Work`
-
-```text
-Understand the problem
-        ↓
-Plan the solution
-        ↓
-Build the first version
-        ↓
-Test & debug
-        ↓
-Improve the experience
-        ↓
-Ship it
-```
-
-> **Good software isn't only about writing code.
-> It's about solving the right problem well.**
-
----
-
-## `◈ GitHub Activity`
+## `07 // Current Mission`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="170"/>
+```text
+████████████████████  Frontend Engineering
+████████████████████  JavaScript
+███████████████████░  Supabase / PostgreSQL
+████████████████████  Git / GitHub
+███████████████░░░░░  Node.js / Express
+████████████░░░░░░░░  Full-Stack JavaScript
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=itsaleem-dev&theme=github-dark-blue&hide_border=true"/>
+### `Currently → Building deeper. Coding smarter. Shipping more.`
 
 </div>
 
 ---
 
-## `+` Beyond Code
+## `08 // GitHub Analytics`
 
-Alongside development, I work on **teaching, mentoring and building Nexovia Skills Academy**.
+<div align="center">
 
-I enjoy breaking complicated technical concepts into simple, practical steps — especially for developers who are just starting their journey.
+<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 
-**Build it. Understand it. Teach it. Improve it.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=itsaleem-dev&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
 
 ---
 
-## `// 2026`
+## `09 // Contribution Graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaleem-dev&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## `10 // Beyond Code`
+
+I'm not only interested in writing code.
+
+I enjoy **teaching, mentoring, building communities and turning ideas into practical products.**
+
+My goal is simple:
+
+> **Build things that work.
+> Understand how they work.
+> Help others learn how to build them.**
+
+---
+
+## `11 // 2026.exe`
 
 ```text
 [✓] Build real-world web applications
 [✓] Launch Nexovia Skills Academy
 [✓] Teach practical web development
 [✓] Work with Supabase & PostgreSQL
+[✓] Strengthen JavaScript fundamentals
 
-[→] Deepen backend development
-[→] Build full-stack JavaScript applications
-[→] Contribute to open-source projects
-[→] Build and ship more products
+[→] Deepen Node.js & Express.js
+[→] Build full-stack applications
+[→] Explore the MERN ecosystem
+[→] Contribute to open-source
+[→] Ship more real-world products
 ```
+
+---
+
+## `12 // Developer Mindset`
+
+<div align="center">
+
+```text
+    THINK
+      ↓
+    BUILD
+      ↓
+    DEBUG
+      ↓
+    IMPROVE
+      ↓
+    SHIP
+      ↓
+    REPEAT
+```
+
+### `Good software solves problems. Great software solves them well.`
+
+</div>
 
 ---
 
@@ -278,23 +335,23 @@ I enjoy breaking complicated technical concepts into simple, practical steps —
 <div align="center">
 
 <a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/Website-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Website-161B22?style=for-the-badge&logoColor=58A6FF"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-161B22?style=for-the-badge&logoColor=0A66C2"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/nexovia_.official/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/📸%20Instagram-161B22?style=for-the-badge&logoColor=E4405F"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=Profile%20Views&color=58A6FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
 
 <br/><br/>
 
-### `Learn → Build → Ship → Repeat.`
+### `Learn → Build → Ship → Repeat.` 🚀
 
 </div>
