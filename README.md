@@ -120,7 +120,7 @@ Working with:
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman,vercel" />
 </p>
 
 ---
