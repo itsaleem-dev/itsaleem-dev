@@ -77,7 +77,7 @@ Always Learning
 ### 🟢 Frontend Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
 ### 🟣 Backend
