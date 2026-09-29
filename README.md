@@ -52,8 +52,8 @@
 │  Web Development Instructor                                │
 │  Founder & CEO @ Nexovia Skills Academy                    │
 │                                                            │
-│  Building products.                                       │
-│  Learning full-stack engineering.                         │
+│  Building products.                                        │
+│  Learning full-stack engineering.                          │
 │  Teaching practical development.                           │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
@@ -69,12 +69,12 @@ My current focus is the **MERN stack**, REST APIs, databases, authentication, de
 
 ```text
 ┌──────────────────────┬─────────────────────────────────────┐
-│ ROLE                 │ MERN Stack Developer               │
-│ SPECIALIZATION       │ Full-Stack JavaScript              │
+│ ROLE                 │ MERN Stack Developer                │
+│ SPECIALIZATION       │ Full-Stack JavaScript               │
 │ FRONTEND             │ React.js                            │
 │ BACKEND              │ Node.js + Express.js                │
 │ DATABASE             │ MongoDB + PostgreSQL                │
-│ API                  │ REST APIs                            │
+│ API                  │ REST APIs                           │
 │ CURRENT FOCUS        │ Full-Stack Development              │
 │ BUILDING             │ Nexovia Skills Academy              │
 │ STATUS               │ Learning • Building • Shipping      │
@@ -132,7 +132,7 @@ My current focus is the **MERN stack**, REST APIs, databases, authentication, de
                         ▼
                  ┌──────────────┐
                  │    NODE.JS   │
-                 │    BACKEND    │
+                 │    BACKEND   │
                  └──────┬───────┘
                         │
                         ▼
