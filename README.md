@@ -159,9 +159,9 @@ Alongside development, I also teach web development and enjoy helping beginners 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb" width="400"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="400"/>
 
-### React.js → Express.js → Node.js → MongoDB
+### MongoDB → Express.js → React.js → Node.js 
 
 **Frontend → API → Backend → Database**
 
