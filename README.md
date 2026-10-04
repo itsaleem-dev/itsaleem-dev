@@ -52,9 +52,9 @@ Currently, I am building **Nexovia Skills Academy**, a career-focused learning p
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
-**Frontend**
+**Frontend Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,Vite&theme=dark"/>
 
 **Backend**
 
