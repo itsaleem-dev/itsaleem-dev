@@ -18,9 +18,7 @@
 <img src="https://img.shields.io/badge/NEXOVIA-A8D500?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=PROFILE%20VIEWS&color=A8D500&style=for-the-badge"/>
+<br/>
 
 </div>
 
