@@ -1,167 +1,155 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ABDUL%20ALEEM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=62&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ABDUL%20ALEEM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=62&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A8D500&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Web+Applications.;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products.;Learning.+Building.+Shipping.;Founder+%26+CEO+%40+Nexovia+Skills+Academy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A8D500&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer+%40+SMIT.;Technical+Team+Member+%40+GDGoC+MAJU.;Web+Development+Instructor.;Founder+%26+CEO+%40+Nexovia+Skills+Academy.;Building+Ideas+Into+Real+Products."/>
+
+<br/>
+
+<a href="https://github.com/itsaleem-dev">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abdul-aleem-khatri-9aaba9389/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://nexovia-skills-academy.netlify.app">
+<img src="https://img.shields.io/badge/Nexovia-A8D500?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/itsaleem-dev">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
-</a>
-
-<a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/NEXOVIA-A8D500?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
-</a>
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=itsaleem-dev&label=PROFILE%20VIEWS&color=A8D500&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👋 ABOUT ME
+## 👨‍💻 ABOUT ME
 
-Hi, I'm **Abdul Aleem**, a **MERN Stack Developer, Software Engineer, Web Development Instructor, and Founder & CEO of Nexovia Skills Academy**.
+Hi, I'm **Abdul Aleem Khatri**, a Software Engineer, Full Stack JavaScript Developer, Web Development Instructor, and Founder & CEO of Nexovia Skills Academy.
 
-I enjoy building **modern, responsive, and practical web applications** and turning ideas into real working products. My development journey started with frontend development and has gradually expanded into **full-stack JavaScript development**.
+I'm passionate about building modern web applications, solving real-world problems, and turning ideas into practical digital products.
 
-I'm currently focused on the **MERN stack**, building real-world projects, improving backend development, working with databases and APIs, and continuously strengthening my software engineering fundamentals.
+My development journey started with frontend development and has expanded into backend development, database management, REST APIs, and full-stack JavaScript.
 
-Alongside development, I also teach web development and enjoy helping beginners understand programming through practical projects and simple explanations.
+Currently, I'm strengthening my MERN Stack development skills through practical learning and hands-on experience at **Saylani Mass IT Training (SMIT)**.
 
-> **Learn → Build → Improve → Ship → Repeat**
+I also contribute to the developer community as a **Technical Team Member at Google Developer Groups on Campus – MAJU**, while mentoring aspiring developers through my teaching role.
 
----
-
-## 🟢 CURRENT STATUS
-
-- 👨‍💻 **Role:** MERN Stack Developer
-- 💻 **Specialization:** Full-Stack JavaScript Development
-- ⚛️ **Frontend:** React.js
-- ⚙️ **Backend:** Node.js & Express.js
-- 🗄️ **Databases:** MongoDB & PostgreSQL
-- 🔌 **APIs:** REST APIs
-- 🔥 **Services:** Firebase & Supabase
-- 🚀 **Deployment:** Vercel & Netlify
-- 👨‍🏫 **Teaching:** Web Development Instructor
-- 🏢 **Building:** Nexovia Skills Academy
-- 📚 **Currently Learning:** Advanced MERN Stack Development
+> Learn → Build → Solve → Improve → Ship.
 
 ---
 
-# 🧠 TECH STACK
+## 🏆 ACHIEVEMENTS & PROFESSIONAL ROLES
 
-## 💻 LANGUAGES
+### 🚀 SMIT – MERN Stack Developer Bootcamp Intern
+
+Selected for the MERN Stack Developer Bootcamp Internship at Saylani Mass IT Training (SMIT), among **150 selected candidates out of approximately 900 applicants**.
+
+### 🌐 Google Developer Groups on Campus – MAJU
+
+**Technical Team Member | 2026–2027**
+
+Contributing to technical activities, student engagement, and technology-driven initiatives within the developer community.
+
+### 👨‍🏫 Career Boosting Learning Academy
+
+**Senior Web Development Instructor**
+
+Mentoring students in frontend development, JavaScript, practical coding, debugging, and project-based learning.
+
+### 🏢 Nexovia Skills Academy
+
+**Founder & CEO**
+
+Leading the vision, strategy, branding, and operations of a career-focused technology learning platform.
+
+---
+
+## 🟢 CURRENT FOCUS
+
+- 👨‍💻 Role: MERN Stack Developer Intern
+- ⚛️ Frontend: React.js
+- ⚙️ Backend: Node.js & Express.js
+- 🍃 Database: MongoDB
+- 🗄️ Additional Database: PostgreSQL
+- 🔌 APIs: REST APIs & Integration
+- 🔥 Backend Services: Supabase & Firebase
+- 🛠️ Tools: Git, GitHub & Postman
+- ☁️ Deployment: Vercel & Netlify
+- 📚 Learning: Advanced MERN Stack Development
+
+---
+
+# 🧠 TECH STACK & TECHNOLOGIES
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-`HTML5` • `CSS3` • `JavaScript ES6+`
+`HTML5` `CSS3` `JavaScript ES6+`
 
----
-
-## ⚛️ FRAMEWORKS
+### ⚛️ Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
 </p>
 
-`React.js` • `Node.js` • `Express.js` • `Bootstrap`
+`React.js` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
 
----
-
-## 📚 LIBRARIES & CONCEPTS
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js"/>
-</p>
-
-- React Components
-- React Hooks
-- State Management
-- DOM Manipulation
-- Event Handling
-- API Integration
-- Responsive UI Development
-- Reusable Components
-
----
-
-## 🎨 FRONTEND DEVELOPMENT
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react"/>
-</p>
-
-`HTML5` • `CSS3` • `Bootstrap 5` • `JavaScript` • `React.js`
-
----
-
-## ⚙️ BACKEND DEVELOPMENT
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-`Node.js` • `Express.js` • `REST APIs` • `Server-side JavaScript`
+`Node.js` `Express.js` `REST APIs` `Server-side JavaScript`
 
----
-
-## 🗄️ DATABASES
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
 </p>
 
-`MongoDB` • `PostgreSQL`
+`MongoDB` `PostgreSQL`
 
----
-
-## 🔥 SERVICES & APIs
+### 🔥 Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,supabase"/>
 </p>
 
-`Firebase` • `Supabase` • `REST APIs` • `API Integration`
+`Firebase` `Supabase` `Authentication` `Database Integration`
 
----
-
-## 🛠️ DEVELOPMENT TOOLS
+### 🛠️ Tools & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
-`Git` • `GitHub` • `VS Code` • `Postman`
+`Git` `GitHub` `VS Code` `Postman`
 
----
-
-## ☁️ DEPLOYMENT
+### ☁️ Deployment & Hosting
 
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify"/>
 </p>
 
-`Vercel` • `Netlify`
+`Vercel` `Netlify`
 
 ---
 
-# 🔥 MERN STACK JOURNEY
+# 🔥 MERN STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="400"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
-### MongoDB → Express.js → React.js → Node.js 
+### MongoDB → Express.js → React.js → Node.js
 
-**Frontend → API → Backend → Database**
+**Frontend | Backend | APIs | Database**
 
 </div>
 
@@ -169,37 +157,37 @@ Alongside development, I also teach web development and enjoy helping beginners 
 
 # 🚀 FEATURED PROJECTS
 
+### 🎓 Nexovia Skills Academy
+
+A technology education platform focused on courses, applications, student learning, and practical skill development.
+
+**Technologies:** HTML, CSS, JavaScript, Supabase, PostgreSQL
+
+🔗 [Live Website](https://nexovia-skills-academy.netlify.app)
+
+### 🔐 MERN Authentication System
+
+A full-stack authentication project featuring user registration, login, protected routes, and JWT-based authentication.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, JWT
+
 ### 💰 Smart Money Dashboard
 
-A responsive personal finance dashboard for tracking income and expenses.
+A responsive personal finance dashboard for managing income and expenses with interactive features.
 
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
-
----
+**Technologies:** HTML, CSS, JavaScript, LocalStorage
 
 ### 🚦 Traffic Signal Checker
 
-An interactive JavaScript project demonstrating conditional logic and dynamic UI behavior.
+An interactive JavaScript application demonstrating conditional logic and dynamic UI updates.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML, CSS, JavaScript
 
----
+### ⚛️ React Applications
 
-### 🎓 Nexovia Skills Academy
+A collection of React projects exploring reusable components, hooks, state management, routing, and API integration.
 
-A learning platform project focused on courses, applications, practical learning, and database integration.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL`
-
-🔗 **Live:** https://nexovia-skills-academy.netlify.app
-
----
-
-### ⚛️ React Projects
-
-A collection of React applications focused on components, state management, API integration, and interactive interfaces.
-
-**Tech:** `React.js` `JavaScript` `REST APIs`
+**Technologies:** React.js, JavaScript, REST APIs
 
 ---
 
@@ -207,110 +195,70 @@ A collection of React applications focused on components, state management, API 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=NEXOVIA%20SKILLS%20ACADEMY&fontSize=27&fontColor=ffffff&animation=twinkling&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20GROW&descSize=16&descAlignY=76" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=NEXOVIA%20SKILLS%20ACADEMY&fontSize=26&fontColor=ffffff&animation=fadeIn&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20GROW&descSize=15&descAlignY=76" width="90%"/>
+
+### Where Skills Become Opportunities.
 
 </div>
 
-**Nexovia Skills Academy** is a career-focused learning platform I'm building to help aspiring developers turn knowledge into **practical skills, real projects, portfolios, and opportunities**.
+I'm the Founder & CEO of **Nexovia Skills Academy**, a learning initiative focused on helping aspiring developers develop practical, industry-relevant skills.
 
-### 🎯 Vision
+Our approach emphasizes:
 
-> **Where Skills Become Opportunities.**
-
-### 🚀 Learning Approach
-
-`LEARN` → `PRACTICE` → `BUILD` → `PORTFOLIO` → `EXPERIENCE` → `GROW`
+- Practical technology education
+- Live training and hands-on assignments
+- Real-world projects
+- Portfolio development
+- Career guidance and mentorship
 
 🔗 **Website:** https://nexovia-skills-academy.netlify.app
 
 ---
 
-# 👨‍🏫 WEB DEVELOPMENT TEACHING
+# 👨‍🏫 WEB DEVELOPMENT INSTRUCTOR
 
-I'm also a **Web Development Instructor**, helping students learn web development through practical coding and real projects.
+I enjoy sharing knowledge and helping beginners build confidence in programming.
 
-### 📚 Topics I Teach
+### Teaching Areas
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+- HTML5 & CSS3
+- Bootstrap 5
+- JavaScript ES6+
 - DOM Manipulation
 - Git & GitHub
-- Netlify Deployment
+- Website Deployment
 - React.js Fundamentals
-- Beginner Web Development
-- Practical Project Development
+- Practical Web Development Projects
 
 **Teaching Philosophy:**
 
-> Explain simply → Practice together → Build projects → Deploy → Improve
+> Understand → Practice → Build → Deploy → Improve.
 
 ---
 
-# 🎯 2026 FOCUS
+# 🎯 2026 DEVELOPMENT GOALS
 
-### Currently Improving
-
-- ⚛️ Advanced React.js
-- 🟨 Modern JavaScript
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
-- 🔌 REST API Development
-- 🔐 Authentication & Authorization
-- 🗄️ Database Design
-- 🏗️ Full-Stack Architecture
-- 🚀 Production-ready Applications
-
-### Building Towards
-
-- Production-ready MERN applications
-- Advanced React development
-- Scalable REST APIs
-- Better backend architecture
-- MongoDB database design
-- Authentication systems
-- Full-stack JavaScript products
-- Better system design
-- Open-source contribution
+- Strengthening advanced JavaScript concepts.
+- Building production-ready MERN applications.
+- Improving React.js architecture and state management.
+- Mastering Node.js and Express.js.
+- Learning secure authentication and authorization.
+- Improving MongoDB and PostgreSQL database design.
+- Developing scalable REST APIs.
+- Exploring modern software engineering practices.
+- Contributing to collaborative development projects.
 
 ---
 
-# 🧠 DEVELOPER MINDSET
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
-### THINK → DESIGN → CODE → DEBUG → IMPROVE → SHIP → REPEAT
+<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8D500&icon_color=A8D500&text_color=FFFFFF" height="180"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaleem-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A8D500&text_color=FFFFFF" height="180"/>
 
-**Build > Learn > Improve > Repeat**
-
-</div>
-
----
-
-# 🧩 MY DEVELOPMENT PRINCIPLES
-
-- 🚀 Build before overthinking
-- 📚 Learn by doing
-- 🧠 Understand what you write
-- 🐛 Debug instead of giving up
-- 🏗️ Build real projects
-- 📈 Keep improving
-- 🌐 Learn from real-world problems
-- 📦 Ship what you build
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsaleem-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8D500&icon_color=A8D500&text_color=FFFFFF" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaleem-dev&hide_border=true&background=0D1117&ring=A8D500&fire=A8D500&currStreakLabel=A8D500&sideLabels=FFFFFF&dates=888888" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaleem-dev&hide_border=true&background=0D1117&ring=A8D500&fire=A8D500&currStreakLabel=A8D500&sideLabels=FFFFFF&dates=888888" width="70%"/>
 
 </div>
 
@@ -326,64 +274,46 @@ I'm also a **Web Development Instructor**, helping students learn web developmen
 
 ---
 
-# 📈 MY DEVELOPER JOURNEY
+# 💡 MY DEVELOPER MINDSET
 
 <div align="center">
 
-**HTML**  
-↓  
-**CSS**  
-↓  
-**JavaScript**  
-↓  
-**Git & GitHub**  
-↓  
-**Firebase / Supabase**  
-↓  
-**React.js**  
-↓  
-**Node.js**  
-↓  
-**Express.js**  
-↓  
-**MongoDB**  
-↓  
-**MERN STACK**  
-↓  
-**FULL-STACK ENGINEERING 🚀**
+### THINK → DESIGN → DEVELOP → DEBUG → IMPROVE → SHIP
+
+<br/>
+
+**Build with purpose. Learn continuously. Improve consistently.**
 
 </div>
 
 ---
 
-# 🌐 LET'S CONNECT
+# 🤝 LET'S CONNECT
 
-<p>
-<a href="https://github.com/itsaleem-dev">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
-</a>
-
-<a href="https://nexovia-skills-academy.netlify.app">
-<img src="https://img.shields.io/badge/NEXOVIA-A8D500?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
-</a>
-
-<a href="https://www.instagram.com/nexovia_.official/">
-<img src="https://img.shields.io/badge/INSTAGRAM-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-</p>
-
----
+I'm always open to connecting with developers, mentors, technology enthusiasts, and organizations to share ideas, collaborate, and explore opportunities.
 
 <div align="center">
 
-### LEARN → BUILD → SHIP → REPEAT
+<a href="https://github.com/itsaleem-dev">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/abdul-aleem-khatri-9aaba9389/">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&animation=twinkling" width="100%"/>
+<a href="https://nexovia-skills-academy.netlify.app">
+<img src="https://img.shields.io/badge/Nexovia-A8D500?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
+
+<a href="https://www.instagram.com/nexovia_.official/">
+<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<br/><br/>
+
+### LEARN → BUILD → GROW 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient" width="100%"/>
 
 </div>
