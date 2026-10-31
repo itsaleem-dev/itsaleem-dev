@@ -26,7 +26,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-Hi, I'm **Abdul Aleem Khatri**, a Software Engineer, Full Stack JavaScript Developer, Web Development Instructor, and Founder & CEO of Nexovia Skills Academy.
+Hi, I'm **Abdul Aleem**, a Software Engineer, Full Stack JavaScript Developer, Web Development Instructor, and Founder & CEO of Nexovia Skills Academy.
 
 I'm passionate about building modern web applications, solving real-world problems, and turning ideas into practical digital products.
 
