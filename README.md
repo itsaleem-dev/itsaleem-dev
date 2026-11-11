@@ -42,9 +42,9 @@ I also contribute to the developer community as a **Technical Team Member at Goo
 
 ## 🏆 ACHIEVEMENTS & PROFESSIONAL ROLES
 
-### 🚀 SMIT – MERN Stack Developer Bootcamp Intern
+### 🚀 SMIT – Frontend Developer Bootcamp Intern
 
-Selected for the MERN Stack Developer Bootcamp Internship at Saylani Mass IT Training (SMIT), among **150 selected candidates out of approximately 900 applicants**.
+Selected for the Frontend Developer Bootcamp Internship at Saylani Mass IT Training (SMIT), among **150 selected candidates out of approximately 900 applicants**.
 
 ### 🌐 Google Developer Groups on Campus – MAJU
 
