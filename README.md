@@ -94,10 +94,10 @@ Leading the vision, strategy, branding, and operations of a career-focused techn
 ### ⚛️ Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,next"/>
 </p>
 
-`React.js` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
+`React.js` `Next.js` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
 
 ### ⚙️ Backend Development
 
