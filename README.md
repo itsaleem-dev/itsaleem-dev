@@ -86,18 +86,18 @@ Leading the vision, strategy, branding, and operations of a career-focused techn
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js"/>
 </p>
 
-`HTML5` `CSS3` `JavaScript ES6+`
+`HTML5` `CSS3` `Bootstrap 5` `JavaScript ES6+`
 
 ### ⚛️ Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,next,typescript"/>
+<img src="https://skillicons.dev/icons?i=react,next,typescript,tailwindcss"/>
 </p>
 
-`React.js` `Next.js` `Typescript` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
+`React.js` `Next.js` `Typescript` `Tailwind Css` `DOM Manipulation` `Responsive Design` `React Hooks`
 
 ### ⚙️ Backend Development
 
