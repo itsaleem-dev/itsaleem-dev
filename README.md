@@ -97,7 +97,7 @@ Leading the vision, strategy, branding, and operations of a career-focused techn
 <img src="https://skillicons.dev/icons?i=react,bootstrap,next,typescript"/>
 </p>
 
-`React.js` `Next.js` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
+`React.js` `Next.js` `Typescript` `Bootstrap 5` `DOM Manipulation` `Responsive Design` `React Hooks`
 
 ### ⚙️ Backend Development
 
