@@ -227,7 +227,6 @@ I enjoy sharing knowledge and helping beginners build confidence in programming.
 - DOM Manipulation
 - Git & GitHub
 - Website Deployment
-- React.js Fundamentals
 - Practical Web Development Projects
 
 **Teaching Philosophy:**
