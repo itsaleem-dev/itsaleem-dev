@@ -97,7 +97,7 @@ Leading the vision, strategy, branding, and operations of a career-focused techn
 <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwindcss"/>
 </p>
 
-`React.js` `Next.js` `Typescript` `Tailwind Css` `DOM Manipulation` `Responsive Design` `React Hooks`
+`React.js` `Next.js` `Typescript` `Tailwind Css`
 
 ### ⚙️ Backend Development
 
@@ -105,7 +105,7 @@ Leading the vision, strategy, branding, and operations of a career-focused techn
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-`Node.js` `Express.js` `REST APIs` `Server-side JavaScript`
+`Node.js` `Express.js` `REST APIs`
 
 ### 🗄️ Databases
 
